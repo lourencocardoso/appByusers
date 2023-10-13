@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lourenço Cardoso",
+      "foto": "lore.jpg",
+      "nivel": "A",
+      "descrisao": "Programador web, trabalho com Nextjs, Taiwind, Reactjs, JS, C#, HTML e CSS, Design UI"
+    },
+    {
+      "id": 2,
+      "name": "Fredh Gomes",
+      "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "nivel": "A",
+      "descrisao": "Programador web e Desktop, trabalho com c#, Python, Js"
+    },
+    {
+      "id": 3,
+      "name": "Filipa Cardoso",
+      "foto": "https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "nivel": "B",
+      "descrisao": "Programadora web e Desktop, trabalhando com C#, e Python"
+    },
+    {
+      "id": 4,
+      "name": "Paulo Thomas",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80",
+      "nivel": "A",
+      "descrisao": "Programador web, trabalho com Python, Sass, C#, Js"
+    },
+    {
+      "id": 5,
+      "name": "Mauricio Mbala",
+      "foto": "img3.jpg",
+      "nivel": "A",
+      "descrisao": "Programador web, trabalho com Nextjs, Taiwind, Reactjs, JS, C#, HTML e CSS, Design UI"
+    },
+    {
+      "id": 6,
+      "name": "Anabelmo Feijõ",
+      "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "nivel": "B",
+      "descrisao": "Programador Desktop, trabalho com Python e Hardowin"
+    },
+    {
+      "id": 7,
+      "name": "Antonio Geraldo",
+      "foto": "prof.jpg",
+      "nivel": "A",
+      "descrisao": "Programador web e Desktop, trabalho com..., Tudo que tem haver com programação eu sei."
+    },
+    {
+      "id": 8,
+      "name": "Nicolau Norberto",
+      "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "nivel": "C",
+      "descrisao": "Marking Digital"
+    },
+    {
+      "id": 9,
+      "name": "Janeth Maiwomona",
+      "foto": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "nivel": "B",
+      "descrisao": "Programador web, trabalho com Python, Reactjs, HTML e CSS"
+    },
+    {
+      "id": 10,
+      "name": "Eliseu Gaspar",
+      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80",
+      "nivel": "A",
+      "descrisao": "Programador web e Desktop, trabalho com Python, HTML e Css, Reactjs e React Native"
+    }
+  ]
+}

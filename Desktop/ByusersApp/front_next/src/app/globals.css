@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Courgette&family=Dancing+Script:wght@700&family=EB+Garamond&family=Great+Vibes&family=Heebo:wght@300&family=Mochiy+Pop+One&family=Nunito+Sans:ital,wght@0,500;1,400&family=Nunito:ital,wght@0,200;1,400&family=Playfair+Display:wght@500&family=Poppins:wght@300;600&family=Public+Sans:wght@200&family=Roboto:ital,wght@0,100;0,300;0,700;0,900;1,100;1,300;1,400&display=swap');
+
+body{
+  background: #eeee;
+  overflow: hidden;
+  font-family: "Poppins";
+}
+
+
+#img{
+  animation:img 1s ease-in-out infinite;
+}
+
+#section{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+@keyframes img{
+  0%{
+       margin-top: -1%;
+  }
+  50%{
+      margin-top: 1%;
+  }
+  100%{
+    margin-top: -1%;
+  }
+}
